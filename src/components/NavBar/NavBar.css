@@ -1,0 +1,44 @@
+.navImg{
+    background-image: url(../../img/nav.png) !important
+}
+.imgBrand{
+    width: 95%;
+    position: relative;
+    left: -150px;
+}
+.tlcNav{
+    color: white !important;
+    text-shadow: -1px -1px 0 black !important;
+    font-size: 21px !important; 
+}
+.mcNav{
+    color: white !important;
+    text-shadow: -1px -1px 0 black !important;
+    font-size: 21px !important;
+    position: relative;
+    left: 226px;
+}
+.oNav{
+    color: white !important;
+    text-shadow: -1px -1px 0 black !important;
+    font-size: 21px !important;
+    position: relative;
+    left: 121px;
+}
+.smNav{
+    color: white !important;
+    text-shadow: -1px -1px 0 black !important;
+    font-size: 21px !important;
+    position: relative;
+    left: 24px;
+}
+.cNav{
+    color: white !important;
+    text-shadow: -1px -1px 0 black !important;
+    font-size: 21px !important;
+    position: relative;
+    left: 64px;
+}
+
+
+/*background-image: url(../../img/nav.png) !important;*/
