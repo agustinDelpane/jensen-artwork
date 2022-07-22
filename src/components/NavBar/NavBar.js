@@ -1,13 +1,12 @@
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
-import NavDropdown from 'react-bootstrap/NavDropdown';
 import './NavBar.css'
 
 function NavBar() {
   return (
     <Navbar collapseOnSelect expand="lg" className="navImg">
-      <Container className="navImg">
+      <Container className="navImgContainer">
         <Navbar.Brand href="/">
           <img src={require('../../img/brand.png')} alt="Logo" className="imgBrand"></img>
         </Navbar.Brand>

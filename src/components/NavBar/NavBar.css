@@ -1,5 +1,10 @@
 .navImg{
-    background-image: url(../../img/nav.png) !important
+    background: rgb(255,205,63);
+    background: radial-gradient(circle, rgba(255,205,63,1) 0%, rgba(255,159,4,1) 35%, rgba(255,102,0,1) 100%);
+    border: solid black 2px;
+}
+.navImgContainer{
+    background: none;
 }
 .imgBrand{
     width: 95%;
@@ -8,33 +13,33 @@
 }
 .tlcNav{
     color: white !important;
-    text-shadow: -1px -1px 0 black !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
     font-size: 21px !important; 
 }
 .mcNav{
     color: white !important;
-    text-shadow: -1px -1px 0 black !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
     font-size: 21px !important;
     position: relative;
     left: 226px;
 }
 .oNav{
     color: white !important;
-    text-shadow: -1px -1px 0 black !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
     font-size: 21px !important;
     position: relative;
     left: 121px;
 }
 .smNav{
     color: white !important;
-    text-shadow: -1px -1px 0 black !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
     font-size: 21px !important;
     position: relative;
     left: 24px;
 }
 .cNav{
     color: white !important;
-    text-shadow: -1px -1px 0 black !important;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000 !important;
     font-size: 21px !important;
     position: relative;
     left: 64px;

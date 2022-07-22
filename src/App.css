@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-image: url(./img/fondo.png);
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+  min-width: 1920px;
+  min-height: 1080px;
 }
 
 .App-logo {
