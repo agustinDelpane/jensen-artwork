@@ -1,0 +1,11 @@
+.homeCar{
+    width: 25%;
+    position: relative;
+    left: 715px;
+}
+.carousel-control-prev {
+    left: 600px;
+}
+.carousel-control-next {
+    right: 611px;
+}
